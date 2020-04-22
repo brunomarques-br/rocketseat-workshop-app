@@ -1,0 +1,4 @@
+# Todo
+
+- Style guides;
+- Validações;
