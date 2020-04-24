@@ -2,3 +2,4 @@
 
 - Style guides;
 - Validações;
+- Configurar o debugger
