@@ -1,5 +1,4 @@
 # Todo
 
-- Style guides;
 - Validações;
-- Configurar o debugger
+- Criar o projeto Insomnia;
